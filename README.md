@@ -1,7 +1,10 @@
 # llamacppserver
 Automatically start llama.cpp's llama-server with a simple interface to load models
 
-<code>wget https://raw.githubusercontent.com/NathanArnall/llamacppserver/refs/heads/main/llamaserver.sh && chmod +x llamaserver.sh</code>
+```
+wget https://raw.githubusercontent.com/NathanArnall/llamacppserver/refs/heads/main/llamaserver.sh
+chmod +x llamaserver.sh
+```
 
 <h3>Disclaimer:</h3>
 
