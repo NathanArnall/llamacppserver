@@ -5,9 +5,9 @@ Automatically start llama.cpp's llama-server with a simple interface to load mod
 
 <h3>Assumptions:</h3>
 
-llama.cpp should be built in the home directory (~) of your user, built in a "build" directory.
+llama.cpp should be built in the home directory (~) of your user, built in a "build" directory (or modify the "~/./llama.cpp/build/bin/llama-server" string)
 
-Models should be stored in the home directory/models (/models) of your user (or modify the for f in ~/models/* line).
+Models should be stored in the home directory/models (/models) of your user (or modify the "for f in ~/models/*; then" line).
 
 
 <h3>To Do:</h3>
