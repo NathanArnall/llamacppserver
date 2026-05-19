@@ -8,6 +8,8 @@ chmod +x llamaserver.sh
 
 <h3>Disclaimer:</h3>
 
+This project is not affiliated in any way with llama.cpp
+
 AI was not used in any capacity in the assistance of making this script (ironically) and will not be used at any point of its development.
 
 Only run code from trusted sources. Anything outside of this repository is not monitored.
